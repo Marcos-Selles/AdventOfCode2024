@@ -1,5 +1,9 @@
 # Explicación Día 7
 
+Compilación y ejecucción:
+g++ -o test Dia7.cpp
+./test Puzzle7
+
 Se eligió este problema porque comprobamos qeu al requerir una generación y evaluación de todas las posibilidades era un reto que encajaba perfectamente con el uso de memoria dinámica para almacenarlas y evitar repeticiones.
 
 Utilizamos un algoritmo de memoria dinámica para generar y evaluar combinaciones de operadores eficientemente. Esta técnica es adecuada porque evita reevaluaciones redundantes al almacenar resultados intermedios. Además, empleamos estructuras de datos como vectores para gestionar números y operadores de manera flexible.

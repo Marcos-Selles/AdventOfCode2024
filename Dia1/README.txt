@@ -1,5 +1,9 @@
  # Explicacion del Dia 1
 
+Compilación y ejecucción:
+g++ -o Test1 Dia1.cpp
+./Test1 PuzzleInput.txt
+
 Este problema fue seleccionado por su sencillez inicial, ya que era fácil ver que se podía implementar una parte de algorimo con un divide y vencerás para la ordenación. 
 
 Utilizamos ordenación y cálculo directo de distancias absolutas y almacenamos las listas en vectores, lo que permite un manejo eficiente y un acceso secuencial a los datos.

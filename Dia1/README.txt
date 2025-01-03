@@ -1,4 +1,4 @@
-Explicacion del Dia 1
+ # Explicacion del Dia 1
 
 Este problema fue seleccionado por su sencillez inicial, ya que era fácil ver que se podía implementar una parte de algorimo con un divide y vencerás para la ordenación. 
 

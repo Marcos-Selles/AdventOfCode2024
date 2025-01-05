@@ -2,7 +2,7 @@
 
 Compilación y ejecucción:
 g++ -o Test DIa5.cpp
-./Test1 
+./Test
 
 Este problema fue seleccionado ya que vimos desde el primer momento que la solución se podria hallar mediante el uso de Tablas Hash. 
 
